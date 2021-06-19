@@ -4,4 +4,4 @@ Com meu projeto em mente quero fazer uma livraria para aas pessoas poderem acess
 esse metodo de leitura audio
 
 
-* [acesse]{https://marcio231998.github.io/sebo.com/}*
+[acessa](https://marcio231998.github.io/sebo.com)
